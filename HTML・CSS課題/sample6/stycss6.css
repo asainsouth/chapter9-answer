@@ -1,0 +1,25 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+  margin: 0;
+  padding: 0;
+}
+ .box1{
+  background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+    height: 200px; /* 高さ200px */
+    background-image: url(img/box1.jpg);
+  }
+  .box2{
+    background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+    height: 200px; /* 高さ200px */
+    background-image: url(img/box2.jpg);
+  }
+  .box3{
+    background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+    height: 200px; /* 高さ200px */
+    background-image: url(img/box3.jpg);
+  }
+  .box4{
+    background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+    height: 200px; /* 高さ200px */
+    background-image: url(img/box4.jpg);
+  }
